@@ -1,0 +1,65 @@
+Timestamp,Name,Event,Location,EmployeeID,Email
+2026-02-16 07:06:57,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:07:19,People,Detected,Outside Desk,N/A,
+2026-02-16 07:07:20,Piyush,Left Desk,Outside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:07:22,Piyush,Entered Desk,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:07:22,People,Disappeared,Unknown,N/A,
+2026-02-16 07:07:25,Piyush,Left Desk,Outside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:07:33,Piyush,Entered Desk,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:07:42,Piyush,Left Desk,Outside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:07:43,People,Detected,Outside Desk,N/A,
+2026-02-16 07:07:47,People,Disappeared,Unknown,N/A,
+2026-02-16 07:07:52,People,Detected,Outside Desk,N/A,
+2026-02-16 07:07:53,People,Entered Desk,Inside Desk,N/A,
+2026-02-16 07:07:53,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:08:02,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:08:04,People,Disappeared,Unknown,N/A,
+2026-02-16 07:08:07,People,Detected,Inside Desk,N/A,
+2026-02-16 07:26:15,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:26,People,Detected,Inside Desk,N/A,
+2026-02-16 07:26:28,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:29,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:37,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:41,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:44,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:44,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:47,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:48,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 07:26:50,People,Disappeared,Unknown,N/A,
+2026-02-16 07:26:59,People,Detected,Inside Desk,N/A,
+2026-02-16 07:27:01,People,Disappeared,Unknown,N/A,
+2026-02-16 07:27:16,People,Detected,Inside Desk,N/A,
+2026-02-16 09:40:44,People,Detected,Inside Desk,N/A,
+2026-02-16 09:40:58,People,Left Desk,Outside Desk,N/A,
+2026-02-16 09:41:04,People,Entered Desk,Inside Desk,N/A,
+2026-02-16 09:43:59,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:06,Piyush,Left Desk,Outside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:07,People,Detected,Outside Desk,N/A,
+2026-02-16 09:44:09,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:10,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:11,People,Disappeared,Unknown,N/A,
+2026-02-16 09:44:12,People,Detected,Inside Desk,N/A,
+2026-02-16 09:44:14,Piyush,Left Desk,Outside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:14,People,Disappeared,Unknown,N/A,
+2026-02-16 09:44:16,Piyush,Entered Desk,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:18,People,Detected,Inside Desk,N/A,
+2026-02-16 09:44:19,People,Left Desk,Outside Desk,N/A,
+2026-02-16 09:44:20,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:22,People,Entered Desk,Inside Desk,N/A,
+2026-02-16 09:44:22,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:44:24,People,Disappeared,Unknown,N/A,
+2026-02-16 09:45:59,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 09:46:03,People,Detected,Inside Desk,N/A,
+2026-02-16 09:46:05,People,Disappeared,Unknown,N/A,
+2026-02-16 10:16:02,People,Detected,Inside Desk,N/A,
+2026-02-16 10:16:03,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 10:16:05,People,Disappeared,Unknown,N/A,
+2026-02-16 10:16:08,People,Detected,Inside Desk,N/A,
+2026-02-16 10:16:09,People,Left Desk,Outside Desk,N/A,
+2026-02-16 10:16:11,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 10:16:17,People,Disappeared,Unknown,N/A,
+2026-02-16 10:16:18,People,Detected,Inside Desk,N/A,
+2026-02-16 10:16:19,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 10:16:22,Piyush,Disappeared,Unknown,23bcs061,infopiyush2004@gmail.com
+2026-02-16 10:16:22,Piyush,Detected,Inside Desk,23bcs061,infopiyush2004@gmail.com
+2026-02-16 10:16:26,People,Disappeared,Unknown,N/A,
